@@ -1,6 +1,12 @@
 <?php
+/**
+ * User: aierui
+ * Email: aieruishi@gmail.com
+ * Date: 2018/2/5
+ * Time: 下午6:17
+ */
 
-class IndexController extends Yaf_Controller_Abstract
+class TestController extends Yaf_Controller_Abstract
 {
     // default action name
     public function indexAction($a = 0)
